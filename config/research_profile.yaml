@@ -1,0 +1,71 @@
+researcher:
+  name: Jenny
+  field: Information Systems
+
+core_topics:
+  - digital health
+  - artificial intelligence in healthcare
+
+phenomena:
+  - AI deployment
+  - algorithmic monitoring
+
+mechanisms_and_theories:
+  - information asymmetry
+  - signaling
+  - screening
+  - principal-agent
+  - strategic information disclosure
+  - automation complacency
+  - human-AI complementarity
+
+methods:
+  - causal inference
+  - structural modeling
+  - analytical modeling
+  - counterfactual simulation
+  - empirical industrial organization
+  - machine learning
+  - deep learning
+
+contexts:
+  - healthcare
+  - clinical research
+  - pharmaceutical industry
+  - digital platforms
+  - online marketplaces
+  - information systems
+
+active_projects:
+  - name: Centralized Telehealth and Provider Workload
+    priority: 0.5
+    questions:
+      - How does centralized virtual care change the downstream demand faced by in-person providers?
+      - Does telehealth alter provider workload through volume, timing, and patient complexity?
+  - name: Data Regulation and Clinical Trials
+    priority: 0.9
+    questions:
+      - How does privacy regulation affect clinical trial design?
+      - How do informational and geographic design choices interact?
+      - What changes under counterfactual regulatory regimes?
+  - name: AI Healthcare Research Agenda
+    priority: 0.9
+    questions:
+      - How does AI accuracy affect human vigilance and monitoring?
+      - Who should monitor AI systems?
+      - Does AI monitoring improve safety enough to justify its organizational cost?
+
+benchmark_research:
+  - information strategies on digital platforms
+  - algorithmic transparency
+  - strategic information disclosure
+  - AI and human decision making
+  - healthcare information systems
+  - recommender systems and causal effects
+  - online marketplace design
+  - digital economy measurement
+
+negative_signals:
+  - purely clinical efficacy without an information systems or organizational mechanism
+  - molecular biology without an organizational or data-design question
+  - algorithm engineering with no behavioral, organizational, or economic implication
